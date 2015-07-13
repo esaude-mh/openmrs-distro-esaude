@@ -20,6 +20,9 @@ The default OpenMRS interface can be accessed at [http://localhost:8258/openmrs]
 
 The Angular apps can be accessed at [http://localhost:8258/poc/home](http://localhost:8258/poc/home).
 
+* **user**: admin
+* **pass**: eSaude123
+
 ## Development
 
 To code for the Angular apps is in the [`esaude/openmrs-module-bahmniapps`](https://github.com/esaude/openmrs-module-bahmniapps) repo. Specifically, in the `ui` folder.
