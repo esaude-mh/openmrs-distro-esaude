@@ -1,3 +1,6 @@
+> # DEPRECATED
+>:warning: Use the [eSaude EMR Platform Docker composition](https://github.com/esaude/esaude-platform-docker) to set up development environment
+
 # <img src="https://s3-eu-west-1.amazonaws.com/esaude/images/mozambican-emblem.png" height="50px"/> eSaude OpenMRS Distro <img src="https://s3-eu-west-1.amazonaws.com/esaude/images/mozambican-flag.png" height="45px"/>
 
 eSaude [OpenMRS](http://www.openmrs.org/) distribution. This repository contains installation scripts and instructions.
