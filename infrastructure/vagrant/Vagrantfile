@@ -34,7 +34,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # Install required puppet modules
   config.vm.provision :shell do |shell|
     shell.inline = "mkdir -p /etc/puppet/modules;
-      puppet module install example42/apache;"
+      puppet module install example42/apache --version 2.1.9;"
   end
 
   # Apply the puppet manifest
